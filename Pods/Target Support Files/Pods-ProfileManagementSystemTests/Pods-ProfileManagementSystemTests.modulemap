@@ -1,0 +1,6 @@
+framework module Pods_ProfileManagementSystemTests {
+  umbrella header "Pods-ProfileManagementSystemTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
